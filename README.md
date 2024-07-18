@@ -1,2 +1,2 @@
 # testWP
-this is to tes if a wordpress website can be ported to github
+this is to test if a wordpress website can be ported to github
