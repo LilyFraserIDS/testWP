@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Fri, 19 Jul 2024 17:39:50 at http://idsucla.org
+(httrack http://idsucla.org -O /Users/lilyfraser/Documents/d/wpToGithubPages/testWP )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:39:51	Warning: 	Moved Permanently for idsucla.org/robots.txt
+17:39:51	Warning: 	Redirected link is identical because of 'URL Hack' option: idsucla.org/robots.txt and https://idsucla.org/robots.txt
+17:39:51	Warning: 	Warning moved treated for idsucla.org/robots.txt (real one is https://idsucla.org/robots.txt)
+17:39:52	Warning: 	Moved Permanently for idsucla.org/
+17:39:52	Warning: 	Redirected link is identical because of 'URL Hack' option: idsucla.org/ and https://idsucla.org/
+17:39:52	Warning: 	File has moved from idsucla.org/ to https://idsucla.org/
+17:39:52	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
